@@ -1,12 +1,12 @@
 ---
 date: 2017-04-09T10:58:08-04:00
-description: "The Grand Hall"
-featured_image: "/images/Pope-Edouard-de-Beaumont-1844.jpg"
-tags: ["scene"]
+description: The Grand Hall
+featured_image: /images/Pope-Edouard-de-Beaumont-1844.jpg
+tags:
+  - scene
 title: "Chapter I: The Grand Hall"
 ---
-
-Three hundred and forty-eight years, six months, and nineteen days ago
+Three stufferino hundred and forty-eight years, six months, and nineteen days ago
 to-day, the Parisians awoke to the sound of all the bells in the triple
 circuit of the city, the university, and the town ringing a full peal.
 
@@ -77,5 +77,5 @@ the current which drove the crowd towards the grand staircase flowed
 backwards, became troubled, formed whirlpools. This was produced by the
 buffet of an archer, or the horse of one of the provost’s sergeants, which
 kicked to restore order; an admirable tradition which the provostship has
-bequeathed to the constablery, the constablery to the _maréchaussée_,
-the _maréchaussée_ to our _gendarmeri_ of Paris.
+bequeathed to the constablery, the constablery to the *maréchaussée*,
+the *maréchaussée* to our *gendarmeri* of Paris.
